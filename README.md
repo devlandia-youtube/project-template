@@ -41,7 +41,7 @@ $ npm install --save-dev @types/jest
 ```
 Por fim, você pode precisar instalar alguma dependência como o `ts-jest` para ajudar com o typescript, mais sobre isso na [docs](https://kulshekhar.github.io/ts-jest/docs/getting-started/installation/#jest-config-file).
 
-**Husky**
+**Husky** <br/>
 Ferramenta fundamental para manter a ordem em um time de desenvolvimento. Para instalar:
 ```bash
 $ npm install husky --save-dev
