@@ -1,5 +1,5 @@
 # 🎥 Vídeo
-Repositório do vídeo "Como deixar seus projetos Node mais profissionais". 
+Repositório do vídeo "[Como deixar seus projetos Node mais profissionais](https://youtu.be/flk_8tUwP9k)". 
 
 ## Resumo
 **Eslint** <br />
