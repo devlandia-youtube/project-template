@@ -83,4 +83,4 @@ de ferramenta. E tenha um ótimo dia.
 🧠 Você pode aprender qualquer coisa e até a próxima.
 
 ---
-<p align="center">Feito com 💚 por João Victor Ramalho Alves<p>
+<p align="center">Feito com 💚 por <a href="https://github.com/404jv/" target="_blank">João Victor Ramalho Alves</a><p>
