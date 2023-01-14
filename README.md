@@ -27,9 +27,9 @@ Após isso, crie na raiz do seu projeto um arquivo chamado `.eslintrc.json` com 
 }
 ```
 
-Prontinho! Agora, para melhorar mais ainda sua produtividade, não esqueça de instalar a dependência do Eslint no vscode. Assim como eu fiz no vídeo no time 04:29 😉.
+Prontinho! Agora, para melhorar mais ainda sua produtividade, não esqueça de instalar o plugin do Eslint no vscode. Assim como eu fiz no vídeo no time 04:29 😉.
 
-**Jest**
+**Jest** <br/>
 A segunda ferramenta foi o [Jest](https://jestjs.io/). Uma ferramenta muito massa para criar testes automatizados. Para usar ela, instalamos:
 ```bash
 $ npm install --save-dev jest
@@ -73,7 +73,7 @@ $ npx husky add .husky/pre-commit "npx lint-staged"
 ```
 E o hook do push:
 ```bash
-$ npx husky add .husky/pre-push "npm run test:covarege"
+$ npx husky add .husky/pre-push "npm run test:coverage"
 ```
 
 🎉E VOILÁ! Terminamos as configurações. Essas ferramentas são muito profissionais, então, caso esteja no início, é muito provável que você sentiu que alguma ou todas
